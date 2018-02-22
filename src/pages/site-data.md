@@ -9,9 +9,6 @@ filterTags:
   description: 3D Pieces
 - key: 2d
   description: 2D Pieces
-interested_in:
-- Full Time employment
-- Contract
 links:
 - name: Artstation
   url: http://artstation.com/aimpham/

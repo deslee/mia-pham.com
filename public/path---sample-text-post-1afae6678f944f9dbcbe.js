@@ -1,2 +1,0 @@
-webpackJsonp([0x8dca77a4f477],{416:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Sample text!!!</p>",frontmatter:{path:"/sample-text-post",title:"Text or something"}}},pathContext:{path:"/sample-text-post",imageExp:{}}}}});
-//# sourceMappingURL=path---sample-text-post-1afae6678f944f9dbcbe.js.map

@@ -48,3 +48,38 @@ collections:
       - {label: "Thumbnail", name: "thumbnail", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: list }
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/site-data.md"
+        label: "Site Data"
+        name: "site-data"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "site-data"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Summary", name: "summary", widget: "string"}
+          - label: "Tags to show on the front page"
+            name: "filterTags"
+            widget: list
+            fields:
+              - label: "Tag"
+                name: "key"
+              - label: "Description"
+                name: "description"
+          - label: "Links"
+            name: "links"
+            widget: list
+            fields:
+              - label: "Name"
+                name: "name"
+              - label: "Url"
+                name: "url"
+          - label: "Software List"
+            name: "software_list"
+            widget: list
+            fields:
+              - label: "Name"
+                name: "name"
