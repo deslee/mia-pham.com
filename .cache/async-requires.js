@@ -2,7 +2,6 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/desmond/Documents/mia-pham.com/.cache/dev-404-page.js"),
   "component---src-templates-index-page-js": require("gatsby-module-loader?name=component---src-templates-index-page-js!/Users/desmond/Documents/mia-pham.com/src/templates/index-page.js"),
   "component---src-templates-tag-page-js": require("gatsby-module-loader?name=component---src-templates-tag-page-js!/Users/desmond/Documents/mia-pham.com/src/templates/tag-page.js"),
   "component---src-templates-image-post-js": require("gatsby-module-loader?name=component---src-templates-image-post-js!/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js"),
@@ -10,8 +9,6 @@ exports.components = {
 }
 
 exports.json = {
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/desmond/Documents/mia-pham.com/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/desmond/Documents/mia-pham.com/.cache/json/index.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),

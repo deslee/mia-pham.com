@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/desmond/Documents/mia-pham.com/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1519341248706,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/desmond/Documents/mia-pham.com/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac600ede4fb34ee7391d592501e1f072",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -931,16 +921,14 @@
       "siteMetadata": {
         "title": "Gatsby + Netlify CMS Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-22T23:14:03.303Z",
+      "buildTime": "2018-02-22T23:32:03.998Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "60c747e1e5abee7b10d3def4cff7b39d",
+        "contentDigest": "852ccea1c312d98c5a563f1f17808b90",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -950,7 +938,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a55f26cbe6618a924eb412b15f1bbde7",
+        "contentDigest": "15c09a030584edf3ab89de7ab944589c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -961,7 +949,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-02-22T19:50:56.201Z",
-      "accessTime": "2018-02-22T23:14:08.244Z",
+      "accessTime": "2018-02-22T23:32:08.399Z",
       "changeTime": "2018-02-22T19:50:56.201Z",
       "birthTime": "2018-02-21T23:59:05.542Z",
       "root": "/",
@@ -979,11 +967,11 @@
       "blksize": 4194304,
       "ino": 2184356,
       "blocks": 0,
-      "atimeMs": 1519341248243.8289,
+      "atimeMs": 1519342328399.295,
       "mtimeMs": 1519329056200.5256,
       "ctimeMs": 1519329056200.5256,
       "birthtimeMs": 1519257545542.2576,
-      "atime": "2018-02-22T23:14:08.244Z",
+      "atime": "2018-02-22T23:32:08.399Z",
       "mtime": "2018-02-22T19:50:56.201Z",
       "ctime": "2018-02-22T19:50:56.201Z",
       "birthtime": "2018-02-21T23:59:05.542Z"
@@ -993,7 +981,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ec2fc68d17214c7d8e5e1d3031b51b06",
+        "contentDigest": "716907c416b6ddeb5baf1d330d0a0d1e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1004,7 +992,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-02-22T20:03:04.339Z",
-      "accessTime": "2018-02-22T23:14:08.250Z",
+      "accessTime": "2018-02-22T23:32:08.402Z",
       "changeTime": "2018-02-22T20:03:04.339Z",
       "birthTime": "2018-02-22T00:09:14.699Z",
       "root": "/",
@@ -1022,11 +1010,11 @@
       "blksize": 4194304,
       "ino": 2184360,
       "blocks": 0,
-      "atimeMs": 1519341248249.876,
+      "atimeMs": 1519342328401.5593,
       "mtimeMs": 1519329784339.3267,
       "ctimeMs": 1519329784339.3267,
       "birthtimeMs": 1519258154698.833,
-      "atime": "2018-02-22T23:14:08.250Z",
+      "atime": "2018-02-22T23:32:08.402Z",
       "mtime": "2018-02-22T20:03:04.339Z",
       "ctime": "2018-02-22T20:03:04.339Z",
       "birthtime": "2018-02-22T00:09:14.699Z"
@@ -1036,7 +1024,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a09d47e9494626adfde3885df36117d3",
+        "contentDigest": "ab5d6a482b3590a94f1a77ef3fa7fbbe",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1047,7 +1035,7 @@
       "size": 64,
       "prettySize": "64 B",
       "modifiedTime": "2018-02-22T19:21:25.403Z",
-      "accessTime": "2018-02-22T23:14:08.250Z",
+      "accessTime": "2018-02-22T23:32:08.402Z",
       "changeTime": "2018-02-22T19:21:25.403Z",
       "birthTime": "2018-02-22T00:29:37.801Z",
       "root": "/",
@@ -1065,11 +1053,11 @@
       "blksize": 4194304,
       "ino": 2184363,
       "blocks": 0,
-      "atimeMs": 1519341248249.8108,
+      "atimeMs": 1519342328401.5835,
       "mtimeMs": 1519327285402.5728,
       "ctimeMs": 1519327285402.5728,
       "birthtimeMs": 1519259377800.9722,
-      "atime": "2018-02-22T23:14:08.250Z",
+      "atime": "2018-02-22T23:32:08.402Z",
       "mtime": "2018-02-22T19:21:25.403Z",
       "ctime": "2018-02-22T19:21:25.403Z",
       "birthtime": "2018-02-22T00:29:37.801Z"
@@ -1079,7 +1067,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "54140e4fb41610ec423640f3795eed28",
+        "contentDigest": "b101a8038f7afe1ad9ed905601e03eb0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1090,7 +1078,7 @@
       "size": 64,
       "prettySize": "64 B",
       "modifiedTime": "2018-02-22T20:42:31.537Z",
-      "accessTime": "2018-02-22T23:14:08.250Z",
+      "accessTime": "2018-02-22T23:32:08.402Z",
       "changeTime": "2018-02-22T20:42:31.537Z",
       "birthTime": "2018-02-22T00:09:14.700Z",
       "root": "/",
@@ -1108,11 +1096,11 @@
       "blksize": 4194304,
       "ino": 2184357,
       "blocks": 0,
-      "atimeMs": 1519341248249.928,
+      "atimeMs": 1519342328401.6003,
       "mtimeMs": 1519332151536.719,
       "ctimeMs": 1519332151536.719,
       "birthtimeMs": 1519258154699.8455,
-      "atime": "2018-02-22T23:14:08.250Z",
+      "atime": "2018-02-22T23:32:08.402Z",
       "mtime": "2018-02-22T20:42:31.537Z",
       "ctime": "2018-02-22T20:42:31.537Z",
       "birthtime": "2018-02-22T00:09:14.700Z"
@@ -1965,7 +1953,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d907255007e23e3032348de6e5276a8f",
+        "contentDigest": "7b28bedf9e418ba74c0bc88fe8e206f0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1976,7 +1964,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-02-21T23:59:05.542Z",
-      "accessTime": "2018-02-22T23:14:08.327Z",
+      "accessTime": "2018-02-22T23:32:08.415Z",
       "changeTime": "2018-02-22T18:48:16.453Z",
       "birthTime": "2018-02-21T23:59:05.541Z",
       "root": "/",
@@ -1994,11 +1982,11 @@
       "blksize": 4194304,
       "ino": 2184339,
       "blocks": 0,
-      "atimeMs": 1519341248327.015,
+      "atimeMs": 1519342328414.8262,
       "mtimeMs": 1519257545541.5457,
       "ctimeMs": 1519325296453.0376,
       "birthtimeMs": 1519257545541.1628,
-      "atime": "2018-02-22T23:14:08.327Z",
+      "atime": "2018-02-22T23:32:08.415Z",
       "mtime": "2018-02-21T23:59:05.542Z",
       "ctime": "2018-02-22T18:48:16.453Z",
       "birthtime": "2018-02-21T23:59:05.541Z"
@@ -2096,7 +2084,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81bedcee4321c6fc063541a56c4edc3c",
+        "contentDigest": "f125d45be8020ec6c06b21d4ee3ad07a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2107,7 +2095,7 @@
       "size": 1632,
       "prettySize": "1.63 kB",
       "modifiedTime": "2018-02-22T22:20:12.500Z",
-      "accessTime": "2018-02-22T23:14:08.332Z",
+      "accessTime": "2018-02-22T23:32:08.418Z",
       "changeTime": "2018-02-22T22:20:12.500Z",
       "birthTime": "2018-02-21T23:59:05.546Z",
       "root": "/",
@@ -2125,11 +2113,11 @@
       "blksize": 4194304,
       "ino": 2184369,
       "blocks": 0,
-      "atimeMs": 1519341248331.8022,
+      "atimeMs": 1519342328418.1956,
       "mtimeMs": 1519338012500.009,
       "ctimeMs": 1519338012500.009,
       "birthtimeMs": 1519257545546.4358,
-      "atime": "2018-02-22T23:14:08.332Z",
+      "atime": "2018-02-22T23:32:08.418Z",
       "mtime": "2018-02-22T22:20:12.500Z",
       "ctime": "2018-02-22T22:20:12.500Z",
       "birthtime": "2018-02-21T23:59:05.546Z"
@@ -4876,7 +4864,7 @@
       "context": {
         "imageExp": {}
       },
-      "updatedAt": 1519341248757,
+      "updatedAt": 1519342328759,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/index-page.js",
@@ -4885,7 +4873,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "130a1ac104ae3e042c5e2c7eb3ad81b6",
+        "contentDigest": "82a0cf3348242e281d00450cc6ea625d",
         "owner": "internal-data-bridge"
       }
     },
@@ -4900,7 +4888,7 @@
         "tag": "3d",
         "imageExp": {}
       },
-      "updatedAt": 1519341248757,
+      "updatedAt": 1519342328761,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/tag-page.js",
@@ -4909,7 +4897,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "70f2b1bbd16273c9d78f1df921fbaf9e",
+        "contentDigest": "d0b6cbe0c3a2fea8953a438ce90364b5",
         "owner": "internal-data-bridge"
       }
     },
@@ -4924,7 +4912,7 @@
         "tag": "featured",
         "imageExp": {}
       },
-      "updatedAt": 1519341248758,
+      "updatedAt": 1519342328762,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/tag-page.js",
@@ -4933,7 +4921,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9cd2448fc1944c437ba843126661323d",
+        "contentDigest": "0ad6ec9fb612ba11966b7b6136d4c4b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -4948,7 +4936,7 @@
         "tag": "2d",
         "imageExp": {}
       },
-      "updatedAt": 1519341248758,
+      "updatedAt": 1519342328762,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/tag-page.js",
@@ -4957,7 +4945,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1d6683dbac12dda7b0ddc2239859e519",
+        "contentDigest": "eabe0d4139ad38a36926901116b3cdec",
         "owner": "internal-data-bridge"
       }
     },
@@ -4972,7 +4960,7 @@
         "path": "/aircraft-laboratory",
         "imageExp": {}
       },
-      "updatedAt": 1519341248759,
+      "updatedAt": 1519342328763,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -4981,7 +4969,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd7c6e05d0fde1c8c66d7ed9c49e2b89",
+        "contentDigest": "3d8fbf4c922a075011693d6f6bcf7664",
         "owner": "internal-data-bridge"
       }
     },
@@ -4996,7 +4984,7 @@
         "path": "/asian-mint-fusion-restaurant",
         "imageExp": {}
       },
-      "updatedAt": 1519341248759,
+      "updatedAt": 1519342328764,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5005,7 +4993,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1e65c4083233b841f3d664ab7cf98df9",
+        "contentDigest": "38105e077e464a157862fde7562be03c",
         "owner": "internal-data-bridge"
       }
     },
@@ -5020,7 +5008,7 @@
         "path": "/colorful-plains",
         "imageExp": {}
       },
-      "updatedAt": 1519341248760,
+      "updatedAt": 1519342328764,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5029,7 +5017,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2bd1d466b6560eaf9b1524139197d6d5",
+        "contentDigest": "7bbeb55413ab06f063dcf3b30923beec",
         "owner": "internal-data-bridge"
       }
     },
@@ -5044,7 +5032,7 @@
         "path": "/mother-nature",
         "imageExp": {}
       },
-      "updatedAt": 1519341248760,
+      "updatedAt": 1519342328764,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5053,7 +5041,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c40c24c7e0a2f5e057807d3c642e3bb0",
+        "contentDigest": "b4830581f20f7c24ded12ec8abfbd378",
         "owner": "internal-data-bridge"
       }
     },
@@ -5068,7 +5056,7 @@
         "path": "/procrastination-assets",
         "imageExp": {}
       },
-      "updatedAt": 1519341248761,
+      "updatedAt": 1519342328765,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5077,7 +5065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e554ced904756dd620a6eb091b84dc0d",
+        "contentDigest": "6d31fd2e6c02925ae5e84bb5162b09ec",
         "owner": "internal-data-bridge"
       }
     },
@@ -5092,7 +5080,7 @@
         "path": "/pub",
         "imageExp": {}
       },
-      "updatedAt": 1519341248762,
+      "updatedAt": 1519342328765,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5101,7 +5089,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b05bff5bfdd485a6b698ab3ca26a9dda",
+        "contentDigest": "bef213c7ee1007cbdf96aa5293578043",
         "owner": "internal-data-bridge"
       }
     },
@@ -5116,7 +5104,7 @@
         "path": "/winter-forest",
         "imageExp": {}
       },
-      "updatedAt": 1519341248762,
+      "updatedAt": 1519342328765,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5125,7 +5113,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "359c454f94220337921ca9adc60696a4",
+        "contentDigest": "439965080198b3320839dbb539dc8ac2",
         "owner": "internal-data-bridge"
       }
     },
@@ -5140,7 +5128,7 @@
         "path": "/vintage-popart",
         "imageExp": {}
       },
-      "updatedAt": 1519341248762,
+      "updatedAt": 1519342328766,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js",
@@ -5149,7 +5137,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6073e5d7397d3976e21641ff3f39ac68",
+        "contentDigest": "0f7bfa3f637f6aa7e754f82f3f9649bc",
         "owner": "internal-data-bridge"
       }
     },
@@ -5161,7 +5149,7 @@
       "component": "/Users/desmond/Documents/mia-pham.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519341248781,
+      "updatedAt": 1519342328785,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/pages/404.js",
@@ -5170,7 +5158,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "83098f0d4304d33724128eef1bc3d5b3",
+        "contentDigest": "c781802a7519b160b2d443d7dd1f48bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -5182,7 +5170,7 @@
       "component": "/Users/desmond/Documents/mia-pham.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519341248783,
+      "updatedAt": 1519342328787,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/desmond/Documents/mia-pham.com/src/pages/404.js",
@@ -5191,7 +5179,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fbba6a8f0dde8897d19dc8b02a83c665",
+        "contentDigest": "7bd82900a0e4fbbe6876ecb04caecd79",
         "owner": "internal-data-bridge"
       }
     }

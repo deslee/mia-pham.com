@@ -7,7 +7,6 @@ exports.layouts = {
 }
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/desmond/Documents/mia-pham.com/.cache/dev-404-page.js")),
   "component---src-templates-index-page-js": preferDefault(require("/Users/desmond/Documents/mia-pham.com/src/templates/index-page.js")),
   "component---src-templates-tag-page-js": preferDefault(require("/Users/desmond/Documents/mia-pham.com/src/templates/tag-page.js")),
   "component---src-templates-image-post-js": preferDefault(require("/Users/desmond/Documents/mia-pham.com/src/templates/image-post.js")),
@@ -15,8 +14,6 @@ exports.components = {
 }
 
 exports.json = {
-  "layout-index.json": require("/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("/Users/desmond/Documents/mia-pham.com/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),
   "index.json": require("/Users/desmond/Documents/mia-pham.com/.cache/json/index.json"),
   "layout-index.json": require("/Users/desmond/Documents/mia-pham.com/.cache/json/layout-index.json"),

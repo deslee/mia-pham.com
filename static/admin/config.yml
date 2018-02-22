@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: deslee/mia-pham.com
-  branch: master
+  name: git-gateway
 
 media_folder: static/img
 public_folder: /img
