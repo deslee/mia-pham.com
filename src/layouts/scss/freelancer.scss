@@ -1,0 +1,16 @@
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "portfolio.scss";
+@import "contact.scss";
+@import "footer.scss";
+@import "bootstrap-overrides.scss";
+@import "~bootstrap/scss/bootstrap";
+
+#profile-pic {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}

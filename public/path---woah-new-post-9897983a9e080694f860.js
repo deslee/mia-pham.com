@@ -1,0 +1,2 @@
+webpackJsonp([0xc36e78c29ad2],{426:function(t,a){t.exports={data:{markdownRemark:{html:"<p>WOAH EOWHA WOAH</p>\n<p>OOWAHAGA</p>\n<ul>\n<li>WOA</li>\n<li>WOA</li>\n<li>WWW</li>\n</ul>",frontmatter:{path:"/woah-new-post",title:"Woah, a new poSt!!!! BEANS"}}},pathContext:{path:"/woah-new-post",imageExp:{}}}}});
+//# sourceMappingURL=path---woah-new-post-9897983a9e080694f860.js.map
