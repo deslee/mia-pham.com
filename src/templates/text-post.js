@@ -25,7 +25,7 @@ export default ({ data, pathContext }) => {
   />);
 };
 
-export const textPostQuery = graphql`
+export const query = graphql`
   query TextPostByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html

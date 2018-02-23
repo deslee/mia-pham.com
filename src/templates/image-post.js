@@ -90,7 +90,7 @@ export default ({ data, pathContext }) => {
   />);
 };
 
-export const ImagePostQuery = graphql`
+export const query = graphql`
   query imagePostByPath($path: String!, $imageExp: String) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html

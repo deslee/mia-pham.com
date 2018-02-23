@@ -28,7 +28,7 @@ export const IndexPageTemplate = ({ items, tags, currentTag }) => {
                 <div className="btn-group d-md-none btn-group-vertical grid-filter mb-2 w-100" role="group">
                     <Link className="w-100" to="/"><button type="button" className={`btn btn-light${currentTag ? '' : ' active'}`} data-filter="*">All</button></Link>
                     {tags.map(tag => (
-                      <Link className="w-100" key={tag.key} to={`tags/${tag.key}`} ><button type="button" className={`btn btn-light${currentTag === tag.key ? ' active': ''}`}>{tag.description}</button></Link>
+                      <Link className="w-100" key={tag.key} to={`/tags/${tag.key}`} ><button type="button" className={`btn btn-light${currentTag === tag.key ? ' active': ''}`}>{tag.description}</button></Link>
                     ))}
                 </div>
               </div>
@@ -113,7 +113,7 @@ export default class IndexPage extends React.Component {
   }
 }
 
-export const pageQuery = graphql`
+export const query = graphql`
   query IndexQuery($imageExp: String) {
     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
@@ -157,7 +157,6 @@ export const pageQuery = graphql`
           key
           description
         }
-        interested_in
         links {
           name
           url

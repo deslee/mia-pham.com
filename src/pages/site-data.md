@@ -4,6 +4,7 @@ title: Mia Pham
 subtitle: 3D Environment Artist
 email: aimpham94@gmail.com
 summary: Hi! I'm a 3D artist specializing in virtual environments.
+profile_image: "/img/profile.jpg"
 filterTags:
 - key: 3d
   description: 3D Pieces

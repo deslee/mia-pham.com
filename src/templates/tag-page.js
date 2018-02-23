@@ -25,7 +25,6 @@ export default class IndexPage extends React.Component {
       var thumbnail = _.first(combineImagesharpWithContent(sharpNodes, [{ image: thumbnailId }]));
 
       if (!_.get(thumbnail, ['image', 'sizes'])) return;
-
       return {
         ...item,
         thumbnail: thumbnail
@@ -40,7 +39,7 @@ export default class IndexPage extends React.Component {
   }
 }
 
-export const pageQuery = graphql`
+export const query = graphql`
   query TagQuery($tag: String!, $imageExp: String) {
     allMarkdownRemark(filter: {frontmatter: {tags: {eq: $tag}}}, sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
@@ -49,6 +48,7 @@ export const pageQuery = graphql`
           id
           frontmatter {
             title
+            big
             thumbnail
             templateKey
             date(formatString: "MMMM DD, YYYY")
@@ -82,7 +82,6 @@ export const pageQuery = graphql`
           key
           description
         }
-        interested_in
         links {
           name
           url
