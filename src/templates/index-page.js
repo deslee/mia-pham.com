@@ -21,7 +21,7 @@ export const IndexPageTemplate = ({ items, tags, currentTag }) => {
                 <div className="btn-group d-none d-md-block grid-filter mb-2" role="group">
                    <Link to="/"><button type="button" className={`btn btn-light${currentTag ? '' : ' active'}`} data-filter="*">All</button></Link>
                     {tags.map(tag => (
-                      <Link key={tag.key} to={`tags/${tag.key}`} ><button type="button" className={`btn btn-light${currentTag === tag.key ? ' active': ''}`}>{tag.description}</button></Link>
+                      <Link key={tag.key} to={`/tags/${tag.key}`} ><button type="button" className={`btn btn-light${currentTag === tag.key ? ' active': ''}`}>{tag.description}</button></Link>
                     ))}
                 </div>
 
