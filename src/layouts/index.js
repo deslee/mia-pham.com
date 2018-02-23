@@ -50,7 +50,7 @@ const TemplateWrapper = ({ data, children }) => {
             <div className="col-md-4">
               <h4 className="text-uppercase mb-4">Software</h4>
               <div className="row">
-                {software_list.map(software => <div className="col col-6 p-2 text-left" key={software.name}>
+                {software_list.map(software => <div className="col col-6 p-2 text-center" key={software.name}>
                   {software.name}
                 </div>)}
               </div>
