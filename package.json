@@ -8,6 +8,7 @@
     "gatsby": "^1.9.63",
     "gatsby-image": "^1.0.38",
     "gatsby-link": "^1.6.21",
+    "gatsby-plugin-google-fonts": "0.0.3",
     "gatsby-plugin-netlify-cms": "^1.0.2",
     "gatsby-plugin-react-helmet": "^1.0.5",
     "gatsby-plugin-sass": "^1.0.12",

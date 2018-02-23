@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import Img from 'gatsby-image';
 import Link from 'gatsby-link';
+import "bootstrap/scss/bootstrap.scss";
 import './all.sass';
 import { graphql } from 'graphql/graphql';
 import { combineImagesharpWithContent } from '../utils/image-utils';

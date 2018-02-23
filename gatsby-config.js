@@ -40,5 +40,14 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Montserrat\:400,700`,
+          `Lato\:400,700,400i,700i` // you can also specify font weights and styles
+        ]
+      }
+    }
   ],
 };
